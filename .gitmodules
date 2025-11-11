@@ -1,0 +1,3 @@
+[submodule "FabShoppe-spring_reactive_stream"]
+	path = FabShoppe-spring_reactive_stream
+	url = git@github.com:abhilashRupa/FabShoppe-spring_reactive_stream.git
