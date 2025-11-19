@@ -4,3 +4,6 @@
 [submodule "FabShoppe-response-stream"]
 	path = FabShoppe-response-stream
 	url = git@github.com:abhilashRupa/FabShoppe-response-stream.git
+[submodule "FabShoppe-functional"]
+	path = FabShoppe-functional
+	url = git@github.com:abhilashRupa/FabShoppe-functional.git
