@@ -7,3 +7,6 @@
 [submodule "FabShoppe-functional"]
 	path = FabShoppe-functional
 	url = git@github.com:abhilashRupa/FabShoppe-functional.git
+[submodule "FabShoppe-reactive-webclient"]
+	path = FabShoppe-reactive-webclient
+	url = git@github.com:abhilashRupa/FabShoppe-reactive-webclient.git
